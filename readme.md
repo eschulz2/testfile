@@ -1,1 +1,1 @@
-this will be a project
+this will be a project for new students
